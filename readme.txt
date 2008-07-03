@@ -1,13 +1,17 @@
 === ul-title ===
 Contributors: johnl1479
 Donate link: http://johnluetke.net/ul-title
-Tags: title
+Tags: formatting, title 
 Requires at least: 2.3.0
 Tested up to: 2.5.1
 Stable tag: 1.1
 
 ul-title creates a new template tag called wp_ul_title that returns wp_title as an hierarchical unordered list (ul).
- 
+
+== Description ==
+
+ul-title creates a new template tag called wp_ul_title that returns wp_title as an hierarchical unordered list (ul).
+
 == Installation ==
 
 To install ul-title, follow the same basic procedures as you would for any other Wordpress plugin
